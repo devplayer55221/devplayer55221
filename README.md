@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web app pentesting
-- 🌱 I’m currently learning Web app pentesting, Reverse engineering
-- 👯 I’m looking to collaborate on coding, building a security tool
-- 🤔 I’m looking for help with Reverse engineering
+- 🔭 I’m currently working on web app pentesting
+- 🌱 I’m currently learning web app pentesting, reverse engineering
+- 👯 I’m looking to collaborate on building a security tool, reverse engineering something
+- 🤔 I’m looking for help with reverse engineering
