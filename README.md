@@ -10,3 +10,5 @@
 - C
 - C++
 - Python
+- Javascript
+- C#
