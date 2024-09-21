@@ -9,6 +9,7 @@
 I have mostly coded in
 - Python
 - Javascript
+
 And I would like to code more in
 - Bash
 - Go
