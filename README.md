@@ -6,10 +6,10 @@
 - I’m interested in coding, reverse engineering and cryptography as well
 
 
-### I have mostly coded in
+I have mostly coded in
 - Python
 - Javascript
-### And I would like to code more in
+And I would like to code more in
 - Bash
 - Go
 - C/C++
