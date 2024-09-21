@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on web app pentesting
-- 🌱 I’m currently learning web app pentesting, reverse engineering
-- 👯 I’m looking to collaborate on building a security tool, reverse engineering something
-- 🤔 I’m looking for help with reverse engineering
+- I mostly do pentesting(Web, API), source code reviews, server config review
+- I’m trying to learn mobile and thick client pentesting
+- I would like to collaborate on contributing to open source in cybersecurity
+- I’m interested in reverse engineering and cryptography as well
 
 
-### Languages
-- C
-- C++
+### I have mostly coded in
 - Python
 - Javascript
+### And I want to learn and code more in
+- Bash
+- Go
+- C/C++
 - C#
+- Java
