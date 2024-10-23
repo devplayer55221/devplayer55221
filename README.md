@@ -7,3 +7,5 @@
 - I have mostly coded in Python and Javascript.
 - I would like to code more in Bash, Go, C/C++, C# and Java.
 - I would like to start open source contribution.
+
+[Holopin Badges](https://www.holopin.io/@devplayer55221#badges)
