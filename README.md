@@ -1,7 +1,6 @@
 ## Hello! 👋
 
 - I am Mukund. Most of my experience is in pentesting(Web, API) along with some experience in thick client pentesting, source code review and server config review. Want to be better at source code review. Interested in learning reverse engineering and mobile pentesting.
-- I would like to collaborate on contributing to cybersecurity open source projects. I would like to improve in CTFs and get started with bug hunting.
-- I have mostly coded in Python and Javascript and I would like to code more in Bash, Go, C/C++, C# and Java.
+- I have mostly coded in Python, Bash and Javascript and would like to code more in other languages as well.
 
 [Holopin Badges](https://www.holopin.io/@devplayer55221#badges)
