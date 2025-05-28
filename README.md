@@ -1,3 +1,1 @@
 ## Hello! 👋
-
-I am Mukund.
